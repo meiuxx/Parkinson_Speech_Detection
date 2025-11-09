@@ -5,6 +5,7 @@ This repository contains the official implementation for the paper:
 **"A Comparative Study of Machine Learning and Transfer Learning Approaches to Vocal Biomarker Detection in Parkinson’s Disease"**
 
 > **Preprint:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17508693.svg)](https://doi.org/10.5281/zenodo.17508693)
+> 
 > DOI: 10.5281/zenodo.17508693
 
 ## Abstract
