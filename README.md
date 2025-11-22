@@ -6,7 +6,7 @@ This repository contains the official implementation for the paper:
 
 > **Preprint:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17508693.svg)](https://doi.org/10.5281/zenodo.17508693)
 > 
-> DOI: 10.5281/zenodo.17508693
+> Access here: [DOI: 10.5281/zenodo.17508693](https://zenodo.org/records/17508693)
 
 ## Abstract
 
